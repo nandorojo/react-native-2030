@@ -11,4 +11,4 @@ This repository will be three things:
   
 TODO
 
-- [ ] Add checklist
+- [ ] Add checklist (lol)
